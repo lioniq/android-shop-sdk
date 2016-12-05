@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    // 主题色
+    <color name="colorTheme">#FF7F00</color>
+    // 主题 Dark 色
+    <color name="colorThemeDark">#7F3F00</color>
+    // 辅助色(主题色辅色)
+    <color name="colorAssist">#00C4FF</color>
+    // 主标题色
+    <color name="colorTitle">#696969</color>
+    // 次标题色
+    <color name="colorSubTitle">#BEBEBE</color>
+    // 警示颜色
+    <color name="colorAlert">#FF3F0D</color>
+    // 未选中或不可交互颜色
+    <color name="colorUnselected">#808080</color>
+    // 分割线颜色
+    <color name="colorSeparator">#BABAC1</color>
+    // cell分隔View
+    <color name="cellSeparator">#EFEFF4</color>
+    // 透明色
+    <color name="colorClear">#00000000</color>
+
+</resources>
